@@ -9,7 +9,7 @@
 body {
     font-family: 'Montserrat', sans-serif;
     height: 100vh;
-    background: url(https://cdn.pixabay.com/photo/2023/10/10/15/20/swimming-pool-8306716_1280.jpg) no-repeat center center / cover;
+    background: url(https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimages.pexels.com%2Fphotos%2F1263349%2Fpexels-photo-1263349.jpeg%3Fcs%3Dsrgb%26dl%3Dpeople-doing-swim-race-1263349.jpg%26fm%3Djpg&f=1&nofb=1&ipt=425dbd3e7a4817687e7f3dcf7f74e21b1d459b563eecd2e94be25205f2ab4e04&ipo=images) no-repeat center center / cover;
 
     display: flex;
     justify-content: center;
@@ -17,7 +17,7 @@ body {
 }
 
 .container {
-    width: 30%;
+    width: 25%;
     height: 250px;
     background-color: whitesmoke;
     border-radius: 30px;
@@ -39,6 +39,7 @@ body {
 button {
     margin: 0 10px;
     border: none;
+    cursor: pointer;
 }
 
 button i {
